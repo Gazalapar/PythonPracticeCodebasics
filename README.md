@@ -7,5 +7,14 @@ Rules for Python variables
  3.A Python variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ ).
  4.Variable in Python names are case-sensitive (name, Name, and NAME are three different variables).
  5.The reserved words(keywords) in Python cannot be used to name the variable in Python.
+(2)Numbers:There are three numeric types in Python:
 
+   int
+   float
+  complex
+Variables of numeric types are created when you assign a value to them:
+ x = 1    # int
+ y = 2.8  # float
+ z = 1j   # complex
+ Note: You cannot convert complex numbers into another number type.
 
