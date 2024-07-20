@@ -27,6 +27,6 @@ Variables of numeric types are created when you assign a value to them:
  Lists are created using square brackets.
  List items are ordered, changeable, and allow duplicate values.
  List items are indexed, the first item has index [0], the second item has index [1] etc.
- 
+ (4)IF statement:The if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not.
 
 
