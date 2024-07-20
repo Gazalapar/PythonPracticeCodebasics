@@ -17,4 +17,9 @@ Variables of numeric types are created when you assign a value to them:
  y = 2.8  # float
  z = 1j   # complex
  Note: You cannot convert complex numbers into another number type.
+ (3)Strings:A String is a data structure in Python Programming that represents a sequence of characters.
+ It is an immutable data type, meaning that once you have created a string, you cannot change it.
+ Python String are used widely in many different applications, such as storing and manipulating text data, representing names, addresses, and other types of data that can be represented as text.
+ Python Programming does not have a character data type, a single character is simply a string with a length of 1.
+ 
 
