@@ -28,5 +28,7 @@ Variables of numeric types are created when you assign a value to them:
  List items are ordered, changeable, and allow duplicate values.
  List items are indexed, the first item has index [0], the second item has index [1] etc.
  (4)IF statement:The if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not.
-
-
+ (5)For loop:A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+   This is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.
+   With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+ 
