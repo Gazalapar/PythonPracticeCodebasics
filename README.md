@@ -35,3 +35,12 @@ Variables of numeric types are created when you assign a value to them:
       A function is a block of code which only runs when it is called.
      You can pass data, known as parameters, into a function.A function can return data as a result.
      In Python a function is defined using the def keyword.
+(7)Dictionary:
+     Dictionaries are used to store data values in key:value pairs.
+    A dictionary is a collection which is ordered, changeable and do not allow duplicates.
+    Dictionaries are written with curly brackets.
+(8)Tuple:
+    Tuples are used to store multiple items in a single variable.
+    Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+    A tuple is a collection which is ordered and unchangeable.
+    Tuples are written with round brackets.
