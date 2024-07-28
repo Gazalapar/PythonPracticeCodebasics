@@ -44,3 +44,17 @@ Variables of numeric types are created when you assign a value to them:
     Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
     A tuple is a collection which is ordered and unchangeable.
     Tuples are written with round brackets.
+(9)Read Write:
+     Python offers various methods to read and write to files where each functions behaves differently.
+     One important thing to note is the file operations mode. To read a file, you need to open the file in the read or write mode.
+     While to write to a file in Python, you need the file to be open in write mode.
+
+    Here are some of the functions in Python that allow you to read and write to files:
+
+   read() : This function reads the entire file and returns a string
+   readline() : This function reads lines from that file and returns as a string. It fetch the line n, if it is been called nth time.
+   readlines() : This function returns a list where each element is single line of that file.
+   readlines() : This function returns a list where each element is single line of that file.
+   write() : This function writes a fixed sequence of characters to a file.
+   writelines() : This function writes a list of string.
+   append() : This function append string to the file instead of overwriting the file.
